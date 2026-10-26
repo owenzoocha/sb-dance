@@ -1,0 +1,9 @@
+/* SBSOD — custom properties from the SBSOD design system's tokens.json */
+:root{
+--violet:#4F008C;--violet-hi:#6A1BB0;--violet-deep:#2B0050;--ink:#0E0813;--ink-2:#1B1222;--lilac:#F1EBF7;--lilac-2:#DCCDEB;--paper:#FCFAFE;--white:#FFFFFF;--muted:#5E5468;
+--on-dark-lede:#D9D0E2;--on-dark-body:#CFC6D8;--on-dark-faint:#9A90A4;--on-violet-body:#E6DCF0;--rule-on-dark:rgba(255,255,255,0.12);
+--space-6:6px;--space-8:8px;--space-12:12px;--space-16:16px;--space-20:20px;--space-24:24px;--space-32:32px;--space-40:40px;--space-56:56px;--space-96:96px;--space-section:140px;--wrap:1280px;--header-height:96px;
+--radius-field:12px;--radius-card:20px;--radius-panel:24px;--radius-pill:999px;
+--shadow-card-hover:0 18px 40px -20px rgba(79,0,140,0.45);--shadow-panel:0 30px 60px -40px rgba(43,0,80,0.35);
+--font-serif:"Instrument Serif", Georgia, serif;--font-sans:"Archivo", system-ui, sans-serif;
+}
